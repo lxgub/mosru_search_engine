@@ -3,8 +3,9 @@ mosru_search_engine
 
 Установка и запуск::
 
-    $ cd /folder
+    $ cd /mosru_search_engine
     $ python setup.py install
+    $ cd /mosru_search_engine/searchengine
     $ python -m searchengine
     ======== Running on http://127.0.0.1:9002 ========
 
